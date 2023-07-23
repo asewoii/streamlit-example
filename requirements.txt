@@ -1,3 +1,11 @@
 altair
 pandas
 streamlit
+collections
+namedtuple
+altair
+math
+networkx
+plotly
+graph
+random
